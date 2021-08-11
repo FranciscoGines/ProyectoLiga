@@ -1,0 +1,19 @@
+body {
+  background-image: url(/stylo/img/the-pitch-3160969.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+/* logo transparente liga*/
+.img-logo {
+  width: 150px;
+}
+/*imagenes equipos tabla*/
+.imagen {
+  height: 40px;
+}
+.Fondotabla {
+  height: auto;
+  width: auto;
+  background-position: center;
+  background-size: cover;
+}

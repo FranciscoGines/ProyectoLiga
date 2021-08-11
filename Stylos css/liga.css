@@ -1,0 +1,26 @@
+body {
+  /* background-color: rgba(48, 134, 13, 0.815); */
+  background-image: url(/stylo/img/the-pitch-3160969.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+/*imagenes equipos tabla*/
+.escudo {
+  height: 40px;
+}
+
+/* logo transparente liga*/
+.img-logo {
+  height: 150px;
+}
+.celda {
+  margin-left: 80px;
+}
+thead th {
+  margin-left: 80px;
+}
+.columnas tr:nth-of-type(3) > td:first-of-type {
+  margin-left: 80px;
+}
